@@ -166,7 +166,7 @@
     "rimraf": "^3.0.0",
     "sass-loader": "^9.0.3",
     "selenium-server-standalone-jar": "^3.141.5",
-    "source-map-support": "^0.5.19",
+    "source-map-support": "^0.5.21",
     "tachyons-sass": "^4.9.5",
     "terser-webpack-plugin": "^4.2.3",
     "url-loader": "^4.1.1",
